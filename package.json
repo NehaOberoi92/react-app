@@ -9,7 +9,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
-    "jest": "30.0.3"
+    "jest": "30.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
